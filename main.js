@@ -7,4 +7,3 @@ var typed = new Typed(".text", {
 });
 
 
-// aaaaaaaaaaaaaaaajjjjjjjjjjjjjjjpppppppppppppppppppppppppppppppp
