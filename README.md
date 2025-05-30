@@ -1,9 +1,9 @@
 ![Pranjal Final Project Look](https://github.com/user-attachments/assets/b4f668f5-2824-4f19-b4fa-580e9dd5583e)
 # Pranjal Khandelwal - Personal Portfolio Website
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Last Commit](https://img.shields.io/github/last-commit/golu19102003/portfolio.svg)](https://github.com/golu19102003/portfolio/commits/main)
-[![Open Issues](https://img.shields.io/github/issues/golu19102003/portfolio.svg)](https://github.com/golu19102003/portfolio/issues)
-[![Pull Requests](https://img.shields.io/github/pulls/golu19102003/portfolio.svg)](https://github.com/golu19102003/portfolio/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/golu19102003/Pranjal-Portfolio.svg)](https://github.com/golu19102003/Pranjal-Portfolio/commits/main)
+[![Open Issues](https://img.shields.io/github/issues/golu19102003/Pranjal-Portfolio.svg)](https://github.com/golu19102003/Pranjal-Portfolio/issues)
+[![Pull Requests](https://img.shields.io/github/pulls/golu19102003/Pranjal-Portfolio.svg)](https://github.com/golu19102003/Pranjal-Portfolio/pulls)
 
 ## Overview
 
