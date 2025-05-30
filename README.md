@@ -3,7 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Last Commit](https://img.shields.io/github/last-commit/golu19102003/Pranjal-Portfolio.svg)](https://github.com/golu19102003/Pranjal-Portfolio/commits/main)
 [![Open Issues](https://img.shields.io/github/issues/golu19102003/Pranjal-Portfolio.svg)](https://github.com/golu19102003/Pranjal-Portfolio/issues)
-[![Pull Requests](https://img.shields.io/github/pulls/golu19102003/Pranjal-Portfolio.svg)](https://github.com/golu19102003/Pranjal-Portfolio/pulls)
 
 ## Overview
 
