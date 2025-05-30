@@ -551,12 +551,12 @@ section{
     padding-left: 30px;
     margin-top: 130px;
 }
-.contact-text h2{
-    font-size: 90px;
+.contact-text h1{
+    font-size: 60px;
     line-height: 1;
     margin-left: 3px;
 }
-.contact-text h2 span{
+.contact-text h1 span{
     color: #0ef;
 
 }
